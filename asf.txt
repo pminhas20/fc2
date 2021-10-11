@@ -357,7 +357,7 @@ PLAYER,ASU,DL,Shannon Forman,So,72,285,3,,
 PLAYER,ASU,CB,Terin Adams,So,69,200,3,,
 PLAYER,ASU,LB,Merlin Robertson,Fr,71,235,3,,
 PLAYER,ASU,K,Brandon Ruiz,So,67,180,4,,
-PLAYER,ASU,DL,Jalen Bates,Jr,72,285,4,,a
+PLAYER,ASU,DL,Jalen Bates,Jr,72,285,4,,
 PLAYER,ASU,RB,Brock Sturges,Fr,68,220,3,,
 PLAYER,ASU,QB,Dillon Sterling-Cole,So,74,215,3,,
 PLAYER,ASU,TE,Tommy Hudson,Jr,72,240,4,,
